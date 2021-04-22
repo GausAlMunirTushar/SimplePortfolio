@@ -47,3 +47,30 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experence-area{
+    background-image: url("./images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.working-time{
+    color: orange;
+}
+.single-box{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+#full-stack{
+    border-left: 8px solid;
+    border-image: linear-gradient(lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#baby-stack{
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
